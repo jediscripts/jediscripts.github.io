@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://jediscripts.github.io
 title: JediScript
-tagline: A log of everyday life
+tagline: May the Force be with you
 description: My awesome new site
 paginate: 3
