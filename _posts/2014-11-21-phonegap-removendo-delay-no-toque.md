@@ -3,13 +3,13 @@ published: true
 title: Phonegap: Removendo delay de toque
 layout: post
 ---
-<img src="http://www.blackberryinnovationcenter.com/colombia/wp-content/uploads/2013/11/Apache_Cordova1.png" width="75%"/>
+![img](https://build.phonegap.com/images/marketing/build-diagram.png "Phonegap é fod* pa baralho!")
 
 Desenvolver apps Híbridas sem a ajuda de um framework que tenham, todas as particularidades nas plataformas é um caso de dependência de várias técnicas, se você está nesse campo à um bom tempo, sabe que essa tarefa as vezes depende muito de bibliotecas e pequenos scripts em Javascript para fazer funcionar de uma forma nativa.
 
 Um dos problemas enfrentados é o famoso Delay dos 300ms, esse problema afeta tanto apps híbridas como as feitas em Titanium, Cordova, etc, como os "site-apps" nos navegadores.
 
-Quando eu começei a criar um aplicativo do Guia dos mochileiro das galáxias, apresentava esse problema, dando uma aparência de lentidão e quebrado, coisa que tirava toda a experiência de se criar algo ao estilo nativo. Na época eu resolvi com algumas técnicas relacionadas a CSS, melhorou, mais não tanto quanto depois usando o FastClick.
+Quando eu começei a criar um aplicativo do `Guia dos mochileiro das galáxias`, apresentava esse problema, dando uma aparência de lentidão e quebrado, coisa que tirava toda a experiência de se criar algo ao estilo nativo. Na época eu resolvi com algumas técnicas relacionadas a CSS, melhorou, mais não tanto quanto depois usando o FastClick.
 
 O [FastClick](https://github.com/ftlabs/fastclick) resolve esse problema, especialmente relacionado ao errinho do web-kit em dispositivos que tenham navegadores que usam ele como base, assim como o Webkit(WebView) do Apache Cordova.
 
@@ -18,7 +18,9 @@ O [FastClick](https://github.com/ftlabs/fastclick) resolve esse problema, especi
 Inclua o FastClick na dependência do seu projeto.<br/>
 <table>
  <td border="2px">
-     ***< script type='application/javascript' src='/path/to/fastclick.js'>< /script>***
+     ```
+     <script type='application/javascript' src='/path/to/fastclick.js'></script>
+     ```
  </td>
 </table>
 
@@ -27,9 +29,11 @@ E em seguida inclua essa linha abaixo:
 
 <table>
  <td border="2px">
-     ***window.addEventListener('load', function() { <br/>
+     ```
+     window.addEventListener('load', function() { <br/>
     FastClick.attach(document.body);<br/>
-}, false);***
+}, false);
+    ```
  </td>
 </table>
 
