@@ -3,7 +3,7 @@ published: true
 title: Phonegap: Removendo delay de toque
 layout: post
 ---
-<img src="https://build.phonegap.com/images/marketing/build-diagram.png" title="Phonegap é fod* pa baralho!" width="75%"/>
+<img src="https://build.phonegap.com/images/marketing/build-diagram.png" title="Phonegap é fod* pa baralho!" width="100%"/>
 
 Desenvolver apps Híbridas sem a ajuda de um framework que tenham, todas as particularidades nas plataformas é um caso de dependência de várias técnicas, se você está nesse campo à um bom tempo, sabe que essa tarefa as vezes depende muito de bibliotecas e pequenos scripts em Javascript para fazer funcionar de uma forma nativa.
 
@@ -18,8 +18,10 @@ O [FastClick](https://github.com/ftlabs/fastclick) resolve esse problema, especi
 Inclua o FastClick na dependência do seu projeto.<br/>
 <table>
  <td border="2px">
+     ```javascript
+        <script type='application/javascript' src='/path/to/fastclick.js'></script>
+     ```
      
-     `<script type='application/javascript' src='/path/to/fastclick.js'></script>`
  </td>
 </table>
 
