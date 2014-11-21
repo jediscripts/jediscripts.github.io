@@ -16,14 +16,11 @@ O [FastClick](https://github.com/ftlabs/fastclick) resolve esse problema, especi
 >Antes de chamar qualquer biblioteca no Cordova, você deve esperar o evento “deviceReady”
 
 Inclua o FastClick na dependência do seu projeto.<br/>
-<table>
- <td border="2px">
+
      ```javascript
         <script type='application/javascript' src='/path/to/fastclick.js'></script>
      ```
-     
- </td>
-</table>
+
 
 
 E em seguida inclua essa linha abaixo:
