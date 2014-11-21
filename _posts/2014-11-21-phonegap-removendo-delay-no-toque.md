@@ -18,9 +18,8 @@ O [FastClick](https://github.com/ftlabs/fastclick) resolve esse problema, especi
 Inclua o FastClick na dependência do seu projeto.<br/>
 <table>
  <td border="2px">
-     ```
-     <script type='application/javascript' src='/path/to/fastclick.js'></script>
-     ```
+     
+     `<script type='application/javascript' src='/path/to/fastclick.js'></script>`
  </td>
 </table>
 
@@ -29,11 +28,9 @@ E em seguida inclua essa linha abaixo:
 
 <table>
  <td border="2px">
-     ```
      window.addEventListener('load', function() { <br/>
     FastClick.attach(document.body);<br/>
 }, false);
-    ```
  </td>
 </table>
 
