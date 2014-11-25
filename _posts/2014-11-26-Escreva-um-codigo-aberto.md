@@ -18,4 +18,4 @@ Lendo um artigo do [John Resig](https://twitter.com/jeresig), o criador da bibli
 
 Artigo do [John.](http://ejohn.org/blog/write-code-every-day/)
 
-<center><img src="http://postmania.org/wp-content/uploads/2012/01/yoda-frase2.gif"</center>
+<center><img src="http://postmania.org/wp-content/uploads/2012/01/yoda-frase2.gif"/></center>
