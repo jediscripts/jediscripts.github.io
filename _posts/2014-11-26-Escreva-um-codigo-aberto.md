@@ -4,9 +4,9 @@ title: Phonegap: Escreva um código aberto todos os dias
 layout: post
 ---
 
-<center>
-<img src="http://s3-eu-west-1.amazonaws.com/userlike-cdn-blog/github-jedi.png" width="75%"/>
-</center>
+
+![alt text](http://s3-eu-west-1.amazonaws.com/userlike-cdn-blog/github-jedi.png "Escreva um código aberto todos os dias")
+
 
 Lendo um artigo do [John Resig](https://twitter.com/jeresig), o criador da biblioteca JavaScript [jQuery](http://jquery.com/), onde o mesmo propôs um desafio no mínimo interessante: Escrever código aberto(open-source) todos os dias. O que já é um pouco complicado, pode se tornar ainda mais difícil, pois ele lhe impôs algumas regras:
 
@@ -18,4 +18,4 @@ Lendo um artigo do [John Resig](https://twitter.com/jeresig), o criador da bibli
 
 Artigo do [John.](http://ejohn.org/blog/write-code-every-day/)
 
-<center><img src="http://postmania.org/wp-content/uploads/2012/01/yoda-frase2.gif"/></center>
+![alt text](http://postmania.org/wp-content/uploads/2012/01/yoda-frase2.gif "Sempre passar o que você aprendeu")
