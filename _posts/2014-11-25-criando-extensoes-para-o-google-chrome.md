@@ -4,7 +4,7 @@ title: Phonegap: Criando extensões para o Google Chrome
 layout: post
 ---
 
-![alt text](http://s.glbimg.com/po/tt/f/original/2010/12/29/chrome-extensoes.jpg "Extensões para o Google Chrome")
+<img src="http://s.glbimg.com/po/tt/f/original/2010/12/29/chrome-extensoes.jpg" width="75%"/>
 
 Extensões são pequenos programas que permitem a você adicionar funcionalidades para o navegador, no nosso caso, o Google Chrome, usando tecnologias WEB, tais como: JavaScript, HTML e CSS.
 
@@ -58,4 +58,4 @@ Para testar nossa extensão, acesse a URL: `chrome://extensions/`, marque a opç
 Após fazer isso, você verá que a sua extensão foi carregada e instalada, sendo assim, você pode acessar o plugin que aparecera no lado da barra de url. 
 Pronto Uma Calculadora aparecera em forma de popup
 
-![alt text](http://geradormemes.com/media/created/euziag.png "Paciência jovem padawan")
+<img src="http://geradormemes.com/media/created/euziag.png" width="75%"/>
