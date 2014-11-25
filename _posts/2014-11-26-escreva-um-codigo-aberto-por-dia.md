@@ -1,6 +1,6 @@
 ---
 published: true
-title: Phonegap: Escreva um código aberto todos os dias
+title: Escreva um código aberto todos os dias
 layout: post
 ---
 

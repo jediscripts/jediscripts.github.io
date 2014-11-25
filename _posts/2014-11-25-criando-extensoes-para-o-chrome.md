@@ -1,6 +1,6 @@
 ---
 published: true
-title: Phonegap: Criando extensões para o Google Chrome
+title: Criando extensões para o Google Chrome
 layout: post
 ---
 
