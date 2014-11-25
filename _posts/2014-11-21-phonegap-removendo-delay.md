@@ -1,6 +1,6 @@
 ---
 published: true
-title: Phonegap: Removendo delay de toque
+title: Phonegap Removendo delay de toque
 layout: post
 ---
 <img src="https://build.phonegap.com/images/marketing/build-diagram.png" title="Phonegap é fod* pa baralho!" width="100%"/>
