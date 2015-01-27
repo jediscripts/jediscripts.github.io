@@ -12,9 +12,9 @@ layout: post
 
 <hr>
 hoje estarei falando sobre o Emmet, uma ferramenta que é, indispensável, utilizados por muitos desenvolvedores que já tenha boa experiência. 
-
+<br>
 Não é um pré-processador como o LESS, porém ele abrevia o modo como você escreve o HTML e CSS, pra que você se torne mais rápido ao codificar.
-Escrito em Javascript puro (SIM JAVASCRIPT <3) e podendo funcionar em diferentes plataformas, a ferramenta foi desenvolvida para os editores de códigos mais utilizados do mercado, como o Sublime Text, Notepad++, Atom, Eclipse, Coda, Komodo Edit, , NetBeans, Dreamweaver e o meu xodó o [Brackets](http://brackets.io/), mais para frente farei um post sobre...
+Escrito em Javascript puro (SIM JAVASCRIPT ```<3```) e podendo funcionar em diferentes plataformas, a ferramenta foi desenvolvida para os editores de códigos mais utilizados do mercado, como o **Sublime Text**, Notepad++, **Atom**, **Eclipse**, **Coda**, **Komodo Edit**, **NetBeans**, **Dreamweaver** e o meu xodó o [Brackets](http://brackets.io/), mais para frente farei um post sobre...
 
 ***Mas o que exatamente o Emmet faz?***
 
@@ -94,12 +94,11 @@ Resultará nisso:
      left: 0;
 }
 ```
-<center>
+
 ![alt text](http://media.tumblr.com/35b625bfac2c9521d57fa44a8d561f91/tumblr_inline_n851dfII0R1sr1i40.gif "It's so beautiful")
 
-*São uma porrada de abreviações que o Emmet possui e ainda permite que você mesmo crie suas próprias abreviações. Na [Documentação](http://docs.emmet.io/abbreviations/) você pode ler todas as abreviações disponíveis.*
+**São uma porrada de abreviações que o Emmet possui e ainda permite que você mesmo crie suas próprias abreviações. Na [Documentação](http://docs.emmet.io/abbreviations/) você pode ler todas as abreviações disponíveis.*
 
 ***Então vai lá e de uma olhada.***
 
 ![alt text](https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small "It's so beautiful")
-</center>
