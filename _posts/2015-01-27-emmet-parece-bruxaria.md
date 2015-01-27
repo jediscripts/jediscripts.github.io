@@ -77,16 +77,16 @@ Parece complicado, mas com o passar do tempo e com prática, acaba ficando mais 
 >CSS
 
 No CSS, a ferramenta ajuda bastante na hora de escrever as propriedades. Pra quem já sabe decorado quase todas as propriedades do CSS, fica mais fácil até de deduzir qual abreviação utilizará para escrever o código. 
-```
-#elemento {
+
+```#elemento {
      w200+h100+pos-a+t0+l0       //tecle tab depois de escrever isso
-}
-```
+}```
+
 
 Resultará nisso:
 
-```
-#elemento {
+
+```#elemento {
      width: 200px;
      height: 100px;
      position: absolute;
@@ -94,11 +94,10 @@ Resultará nisso:
      left: 0;
 }
 ```
+![;) Isso é lindo](http://media.tumblr.com/35b625bfac2c9521d57fa44a8d561f91/tumblr_inline_n851dfII0R1sr1i40.gif  ";) Isso é lindo")
 
-![alt text](http://media.tumblr.com/35b625bfac2c9521d57fa44a8d561f91/tumblr_inline_n851dfII0R1sr1i40.gif "It's so beautiful")
-
-**São uma porrada de abreviações que o Emmet possui e ainda permite que você mesmo crie suas próprias abreviações. Na [Documentação](http://docs.emmet.io/abbreviations/) você pode ler todas as abreviações disponíveis.*
+*São uma porrada de abreviações que o Emmet possui e ainda permite que você mesmo crie suas próprias abreviações. Na [Documentação](http://docs.emmet.io/abbreviations/) você pode ler todas as abreviações disponíveis.*
 
 ***Então vai lá e de uma olhada.***
 
-![alt text](https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small "It's so beautiful")
+![Até mais](https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small  "Ate mais e obrigado pelos peixes")
