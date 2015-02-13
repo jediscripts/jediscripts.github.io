@@ -17,7 +17,7 @@ ___O brackets esta disponivel para Linux, MacOS e Windows.___
 Editores Open Source de texto/código, são ferramentas que existem com alguma abundância no mundo open source. Os populares vi, vim, nano, joe, gedit continuam a ser amplamente utilizados por quem usa Linux. No entanto a Adobe  lançou um editor open source para desenvolvimento web, com suporte para as linguagens HTML, CSS e JavaScript.
 
 <center>
-<img src="" title="Ehhhhh Brackets Bitch" alt="Ehhhhh Brackets Bitch">
+<img src="http://geradormemes.com/media/created/i0r65s.jpg" title="Ehhhhh Brackets Bitch" alt="Ehhhhh Brackets Bitch" width="75%">
 </center>
 
 Considerado já como o substituto do gedit (editor de texto com interface gráfica), Brackets é um novo editor de texto código, muito versátil, leve e pode ser facilmente personalizado através das mais diversas extensões disponíveis [aqui!](http://blog.brackets.io/category/extensions/) 
