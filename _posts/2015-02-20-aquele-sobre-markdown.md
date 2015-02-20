@@ -29,12 +29,12 @@ Também a maior parte dos geradores de estáticos, permitem escrever em Markdown
 
 ###Então como escrevo em Markdown?
 
-A linguagem de marcação Markdown é muito simples de se apreender, a Propriá [documentação](http://daringfireball.net/projects/markdown/syntax) + um editor de texto (Brackets de preferência ;P), já é o suficiente, comece treinando editando o README.md de seu github, muitos dos repositorios do github não tem nada escrito em seus README o que não é muito legal.
+A linguagem de marcação Markdown é muito simples de se aprender, a propriá [documentação](http://daringfireball.net/projects/markdown/syntax) + um editor de texto (Brackets de preferência ;P), já é o suficiente, comece treinando editando o README.md de seu github, muitos dos repositorios do github não tem nada escrito em seus README o que não é muito legal.
 
 Então vai lá da uma olhada! 
 
-<center> <img src="http://1.bp.blogspot.com/-3-WjfzM_PWQ/UVH74fJ_eKI/AAAAAAAABOA/nTF3pEQLiso/s320/tumblr_llj233vCD71qc89r5o1_500.jpg" alt="Tio do Jack, Mais uma coisaaa!" title="Mais uma coisa"> <br> [bonús](http://goo.gl/UXGa1x) =) </center>
-
+<center> <img src="http://1.bp.blogspot.com/-3-WjfzM_PWQ/UVH74fJ_eKI/AAAAAAAABOA/nTF3pEQLiso/s320/tumblr_llj233vCD71qc89r5o1_500.jpg" alt="Tio do Jack, Mais uma coisaaa!" title="Mais uma coisa"> <br> </center>  [bonús](http://goo.gl/UXGa1x) =) 
+  
 <hr>
 <center>
 <img src="https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small" title="Ate mais e obrigado pelos peixes" alt="Ate mais e obrigado pelos peixes">
