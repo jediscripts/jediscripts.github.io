@@ -5,7 +5,7 @@ layout: post
 ---
 
 <center>
-<img src="http://imagens.canaltech.com.br/44814.62090-Markdown.jpg" title="Aquele sobre Markdown" alt="Logo do Markdown">
+<img src="http://imagens.canaltech.com.br/44814.62090-Markdown.jpg" width="75%" title="Aquele sobre Markdown" alt="Logo do Markdown">
 </center>
 
 
