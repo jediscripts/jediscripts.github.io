@@ -20,8 +20,8 @@ O JSON além de ser um formato leve para troca de dados é também muito simples
 
 #####XML
 
-```XML
-<?xml version="1.0" encoding="UTF-8"? >
+```
+&al;?xml version="1.0" encoding="UTF-8"? &gt;
   <id>1</id>
   <nome>Joao da Silva</nome>
   <endereco>R. Dos Bobos</endereco>
@@ -30,7 +30,7 @@ O JSON além de ser um formato leve para troca de dados é também muito simples
 ---
 #####JSON
 
-```JAVASCRIPT
+```
 {"id":1,"nome":"Joao da Silva", "endereco":"R. Dos Bobos"}
 ```
 
