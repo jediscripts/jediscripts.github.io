@@ -18,17 +18,18 @@ JSON é como diz a Wiki é basicamente um formato leve de troca de informações
 
 O JSON além de ser um formato leve para troca de dados é também muito simples de ler. Mas quando dizemos que algo é simples, é interessante compará-lo com algo mais complexo para entendermos tal simplicidade não é? Neste caso podemos comparar o JSON com o formato XML.
 
-#####XML
+###XML
 
 ```
-&al;?xml version="1.0" encoding="UTF-8"? &gt;
-  <id>1</id>
-  <nome>Joao da Silva</nome>
-  <endereco>R. Dos Bobos</endereco>
+  &lang;?xml version="1.0" encoding="UTF-8"? &gt;
+    &lang;id&gt;1 &lang;/id&gt;
+    &lang;nome&gt;Joao da Silva  &lang;/nome&gt;
+    &lang;endereco&gt;R. Dos Bobos  &lang;/endereco&gt;
 ```
 
 ---
-#####JSON
+
+###JSON
 
 ```
 {"id":1,"nome":"Joao da Silva", "endereco":"R. Dos Bobos"}
