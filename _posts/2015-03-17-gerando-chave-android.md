@@ -45,10 +45,10 @@ Vamos abrir o terminal  se preferir use o `Ctrl+Alt+t`:
 Precione `Enter`, digite a senha para a chave.
 
 <center>
-<img src="http://jediscript.com/files/tela1.png" alt="tela com o comando keytool -genkey -v -keystore "nomeDaChave.keystore" -alias NomeChave -keyalg RSA -validity 10000" width="80%">
+<img src="http://jediscript.com/files/tela1.png" alt="tela com o comando keytool -genkey -v -keystore nomeDaChave.keystore -alias NomeChave -keyalg RSA -validity 10000" width="80%">
 </center>
 
-Logo em siguida aparecera informações que voce deve prencher, como nome e sobrenome entre outros
+Logo em seguida aparecera informações que você deve preencher.
 
 <center>
 <img src="http://jediscript.com/files/tela2.png" alt="tela com os dados para preenchimento" width="80%">
@@ -62,7 +62,7 @@ Tudo ocorrendo com planejado, aparecerá um dialogo pedindo que você digite out
 <img src="http://jediscript.com/files/tela3.png" alt="tela para digitar a ultima senha" width="80%">
 </center>
 
-Como não escolhemos um diretorial, por padrão o `keytool` vai gerar a chave na pasta `home`
+Como não escolhemos um diretorio, por padrão o `keytool` vai gerar a chave na pasta `home`
 
 <center>
 <img src="http://jediscript.com/files/tela4.png" alt="tela com o arquivo salvo na pasta home" width="80%">
@@ -73,6 +73,7 @@ Como não escolhemos um diretorial, por padrão o `keytool` vai gerar a chave na
 ###Mas o que significa cada comando do Keytool?
 
 `keytool -genkey -v -keystore "nomeDaChave.keystore" -alias NomeChave -keyalg RSA -validity 10000`
+
 >Vamos por partes<br>
 <small><cite>- Morgan, Dexter</cite></small>
 
@@ -119,6 +120,9 @@ Observe que você não precisa especificar essa opção na linha de comando. Se 
 
 ***Uma senha para a keystore.
 Como precaução de segurança, não inclua essa opção na linha de comando. Se não fornecida, o Keytool pedirá que você informe a senha.***
+
+
+*Isso é tudo pessoal!*
 
 <center>
 <img src="https://pbs.twimg.com/media/B6tJt_SIMAAQ7MZ.jpg:small" title="Ate mais e obrigado pelos peixes" alt="Ate mais e obrigado pelos peixes">
