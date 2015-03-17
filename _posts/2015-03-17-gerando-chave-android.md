@@ -8,7 +8,7 @@ layout: post
 <img src="http://jediscript.com/files/androidKEY.jpg" width="40%" title="Chave de android, bahh dumm dishhh" alt="Android 18">
 </center>
 <center>
-<small>***Os meus poderes para montagens, são mais de 8 MILLLLL***</small>
+<small><b>Os meus poderes para montagens, são mais de 8 MILLLLL</b></small>
 </center><br>
 
 
