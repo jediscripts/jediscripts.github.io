@@ -5,8 +5,12 @@ layout: post
 ---
 
 <center>
-<img src="http://jediscript.com/files/androidKEY.jpg" width="40%" title="Chave de android" alt="Android 18">
+<img src="http://jediscript.com/files/androidKEY.jpg" width="40%" title="Chave de android, bahh dumm dishhh" alt="Android 18">
 </center>
+<center>
+<small>***Os meus poderes para montagens, são mais de 8 MILLLLL***</small>
+</center><br>
+
 
 Olá Pessoal, vou mostrar como é fácil gerar uma chave privada para, as suas aplicações feitas para Android, você vai precisar de apenas que ter o [JAVA JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), meu sistema operacional que estou usando é o Linux Mint, mas o processo é bem similar aos outros sistemas operacionais...
 
