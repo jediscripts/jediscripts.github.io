@@ -12,7 +12,7 @@ layout: post
 </center><br>
 
 
-Olá Pessoal, vou mostrar como é fácil gerar uma chave privada para, as suas aplicações feitas para Android, você vai precisar de apenas que ter o [JAVA JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), meu sistema operacional que estou usando é o Linux Mint, mas o processo é bem similar aos outros sistemas operacionais...
+Olá Pessoal, vou mostrar como é fácil gerar uma chave privada para, as suas aplicações feitas para Android, você vai precisar de apenas que ter o [JAVA JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), meu sistema operacional que estou usando é o Linux Mint, mas o processo é bem similar nos outros sistemas operacionais.
 
 O sistema Android requer que todas as aplicações instaladas sejam assinadas digitalmente com um certificado cuja chave privada é mantida pelo desenvolvedor. O Android usa o certificado como um meio de identificar o autor da aplicação e estabelecer uma relação de confiança entre as aplicações.
 
